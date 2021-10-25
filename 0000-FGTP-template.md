@@ -1,11 +1,3 @@
-
-
-*After copying and renaming the template, add a link in the [FilecoinGreen-tools readme](https://github.com/protocol/FilecoinGreen-tools)* 
-
-*Please put some thought into what you are proposing, but no need to fill out every field below. Proposals are taken to be works in progress that we can all collaborate on as a community.*
-
-*Delete italicized lines above*
-
 ---
 FGTP: "0000"
 title: Template
@@ -15,6 +7,12 @@ original author: redransil
 created: 2021-10-25
 ---
 
+*After copying and renaming the template, add a link in the [FilecoinGreen-tools readme](https://github.com/protocol/FilecoinGreen-tools)* 
+
+*Please put some thought into what you are proposing, but no need to fill out every field below. Proposals are taken to be works in progress that we can all collaborate on as a community.*
+
+*Delete these italicized lines*
+
 ## Title
 Filecoin Green Tool Proposal template
 
@@ -22,7 +20,8 @@ Filecoin Green Tool Proposal template
 Template for proposing tools that we will need to build in order to estimate, track, reduce and mitigate Filecoin's environmental impacts.
 
 ## Authors
-* Feel free to add your name if you make contributions beyond fixing typos *
+*Feel free to add your name if you make contributions beyond fixing typos*
+
 redransil
 
 ## Status
