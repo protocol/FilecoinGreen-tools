@@ -20,9 +20,9 @@ In the near-term the focus of Filecoin Green is to provide tools making easy to 
 Protocol Labs wants to support ideas in this space! We are planning events, grants and other support to enable Filecoin to become verifiably environmentally beneficial and to track environmental impacts throughout the web. Join #fil-green on Filecoin Slack to be the first to find out about new opportunities.
 
 # Filecoin Green Tool Proposal (FGTP) List
-|FGTP Number|Title|Link|
-|---|---|---|
-| 0000 | Template | https://github.com/protocol/FilecoinGreen-tools/blob/main/0000-FGTP-template.md |
+|FGTP Number|Title|Description|Link|
+|---|---|---|---|
+| 0000 | Template | Template for new proposals | https://github.com/protocol/FilecoinGreen-tools/blob/main/0000-FGTP-template.md |
 
 
 
