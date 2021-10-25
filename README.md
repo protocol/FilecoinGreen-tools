@@ -20,7 +20,7 @@ How can we create a world in which environmental impacts are visible in every on
 **If you know things -** If you have expertise in relevant subject matter, please contribute! Feel free to browse through ideas and flesh them out or comment on what others have written. If you make substantial contributions, add your name to 'Authors'
 
 # In the future
-Protocol Labs wants to support ideas in this space! We are planning events, grants and other support to enable Filecoin to become verifiably environmentally beneficial and to track environmental impacts throughout the web. Join #fil-green on Filecoin Slack to be the first to find out about new opportunities.
+Protocol Labs wants to support ideas in this space! We are planning events, grants and other support to enable Filecoin to become verifiably environmentally beneficial and to track environmental impacts throughout the web. Join #fil-green on [Filecoin Slack](https://filecoin.io/slack) to be the first to find out about new opportunities.
 
 # Filecoin Green Tool Proposal (FGTP) List
 |FGTP Number|Title|Description|Link|
