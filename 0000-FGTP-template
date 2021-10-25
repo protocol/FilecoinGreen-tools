@@ -1,0 +1,20 @@
+---
+FGTP: "0000"
+title: Template
+status: Idea/Active
+type: Organizational
+original author: redransil
+created: 2021-10-25
+---
+*After copying and renaming the template, add a link in the [FilecoinGreen-tools readme](https://github.com/protocol/FilecoinGreen-tools)*
+
+Title
+Abstract
+Authors
+Status
+What is the goal
+What are the inputs
+What are the outputs
+Proposed Solution
+Projects and Artifacts 
+Relevant Projects
