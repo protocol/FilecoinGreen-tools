@@ -20,12 +20,15 @@ Filecoin Green Tool Proposal template
 Template for proposing tools that we will need to build in order to estimate, track, reduce and mitigate Filecoin's environmental impacts.
 
 ## Authors
-*Feel free to add your name if you make contributions beyond fixing typos*
+*Feel free to add your name if you make contributions beyond fixing typos or formatting*
 
 redransil
 
 ## Status
+*Choose one. If you try implementing, change from Idea to Active here and in the table above.*
+
 Idea - this is something I want people to build
+
 Active - there is at least one implementation of this
 
 ## What is the goal
