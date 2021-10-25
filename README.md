@@ -11,7 +11,9 @@ In the near-term the focus of Filecoin Green is to provide tools making easy to 
 
 # How to use this Repo
 **If you have an idea -** Write about it! Copy the idea template, fill it out, and add a link in the table below. Please check first to see whether someone has added something similar.
+
 **If you're looking for an idea to hack on -** Welcome! Browse the ideas, try something out, and add a link to your stuff in the "Projects and Artifacts" section of the relevant project.
+
 **If you know things -** If you have expertise in relevant subject matter, please contribute! Feel free to browse through ideas and flesh them out or comment on what others have written. If you make substantial contributions, add your name to 'Authors'
 
 # In the future
