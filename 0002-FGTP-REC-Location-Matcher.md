@@ -7,7 +7,7 @@ created: 2021-10-28
 ---
 
 ## Title
-REC Matcher
+REC Location Matcher
 
 ## Abstract
 We need to be able to algorithmically determine whether renewable energy credits (RECs) match energy consumption. One component of this is determining whether consumption and production are close enough to each other on the grid. This is currently done in the industry manually by accounting firms.
