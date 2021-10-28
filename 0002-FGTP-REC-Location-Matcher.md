@@ -37,22 +37,21 @@ Given a consumption location and generation location, tell whether they are in t
   * What location data should we store along with REC purchases to facilitate this?
   * In the near-term, we are expecting to have REC location and amount be available at an EWF endpoint, for example [here for f01234](https://zero.energyweb.org/api/partners/filecoin/nodes/f01234/transactions)
 3. Spatial resolution
-  *  The goal here is to make sure that the generation and consumption are on the same power grid. No good across-the-board standard exists for this right now
-  *  One easy solution is political boundaries: ie country (if the country is reasonably small) or state/province 
-  *  The best solution would look similar to [European bidding zones](https://eepublicdownloads.entsoe.eu/clean-documents/events/2018/BZ_report/20181015_BZ_TR_FINAL.pdf) which are intended to reflect physical electric transmission constraints.
-  *  In the US, [eGRID regions](https://www.epa.gov/egrid) are a good solution. Also see [eGRID maps here](https://www.epa.gov/egrid/maps)
-  *  This configuration may need to be updated over time
 
 ## What are the outputs
 True / False whether the consumption and generation match
 
 ## Proposed Solution
-*If you're interested in tackling this, please propose something!*
-
+*  The goal here is to make sure that the generation and consumption are on the same power grid. No good across-the-board standard exists for this right now
+  *  One easy solution is political boundaries: ie country (if the country is reasonably small) or state/province 
+  *  The best solution would look similar to [European bidding zones](https://eepublicdownloads.entsoe.eu/clean-documents/events/2018/BZ_report/20181015_BZ_TR_FINAL.pdf) which are intended to reflect physical electric transmission constraints.
+  *  In the US, [eGRID regions](https://www.epa.gov/egrid) are a good solution. Also see [eGRID maps here](https://www.epa.gov/egrid/maps)
+  *  This configuration may need to be updated over time
+ 
 ## Implementations and Artifacts 
 No implementations
 
 ## Relevant Background
-See inputs above
+See above
 
 Also for the US, see [grid interconnections](https://www.eia.gov/todayinenergy/detail.php?id=27152) and [system operator / balancing authority](https://www.ferc.gov/sites/default/files/2020-05/elec-ovr-rto-map.pdf) data.
