@@ -27,6 +27,7 @@ Protocol Labs wants to support ideas in this space! We are planning events, gran
 |---|---|---|---|
 | 0000 | Filecoin Green Tool Proposal template | Template for new proposals | https://github.com/protocol/FilecoinGreen-tools/blob/main/0000-FGTP-template.md |
 | 0001 | Carbon 12 | Embodied emissions tracking solution | https://github.com/protocol/FilecoinGreen-tools/blob/main/0001-FGTP-Carbon12.md |
+| 0002 | REC Matcher | Algorithmic matching of generation and consumption locations | https://github.com/protocol/FilecoinGreen-tools/blob/main/0002-FGTP-REC-Matcher.md |
 
 
 
