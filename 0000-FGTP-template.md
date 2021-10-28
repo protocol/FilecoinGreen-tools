@@ -2,7 +2,6 @@
 FGTP: "0000"
 title: Template
 status: Idea/Active
-type: Organizational
 original author: redransil
 created: 2021-10-25
 ---
