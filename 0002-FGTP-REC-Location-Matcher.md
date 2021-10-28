@@ -1,6 +1,6 @@
 ---
 FGTP: "0002"
-title: REC Matcher
+title: REC Location Matcher
 status: Idea
 original author: redransil
 created: 2021-10-28
@@ -39,8 +39,8 @@ Given a consumption location and generation location, tell whether they are in t
 3. Spatial resolution
   *  The goal here is to make sure that the generation and consumption are on the same power grid. No good across-the-board standard exists for this right now
   *  One easy solution is political boundaries: ie country (if the country is reasonably small) or state/province 
-  *  Another solution is to do it by either [grid interconnection](https://www.eia.gov/todayinenergy/detail.php?id=27152) or [system operator / balancing authority](https://www.ferc.gov/sites/default/files/2020-05/elec-ovr-rto-map.pdf) ie the organization that operates the power grid.
   *  The best solution would look similar to [European bidding zones](https://eepublicdownloads.entsoe.eu/clean-documents/events/2018/BZ_report/20181015_BZ_TR_FINAL.pdf) which are intended to reflect physical electric transmission constraints.
+  *  In the US, [eGRID regions](https://www.epa.gov/egrid) are a good solution. Also see [eGRID maps here](https://www.epa.gov/egrid/maps)
   *  This configuration may need to be updated over time
 
 ## What are the outputs
@@ -54,3 +54,5 @@ No implementations
 
 ## Relevant Background
 See inputs above
+
+Also for the US, see [grid interconnections](https://www.eia.gov/todayinenergy/detail.php?id=27152) and [system operator / balancing authority](https://www.ferc.gov/sites/default/files/2020-05/elec-ovr-rto-map.pdf) data.
