@@ -2,7 +2,6 @@
 FGTP: "0001"
 title: Carbon12
 status: Active
-type: traceability solution
 original author: Marc Johnson
 created: 2021-10-26
 ---
