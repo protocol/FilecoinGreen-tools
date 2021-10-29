@@ -10,7 +10,7 @@ created: 2021-10-29
 Filecoin Electricity Estimator
 
 ## Abstract
-Model for estimating the electiricty use of Filecoin using on-chain activity
+Model for estimating the electricty use of Filecoin using on-chain activity
 
 ## Authors
 redransil
