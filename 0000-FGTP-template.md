@@ -1,7 +1,7 @@
 ---
 FGTP: "0000"
 title: Template
-status: Idea/Active
+status: Proposed/Active
 original author: redransil
 created: 2021-10-25
 ---
@@ -26,7 +26,7 @@ redransil
 ## Status
 *Choose one. If you try implementing, change from Idea to Active here and in the table above.*
 
-Idea - this is something I want people to build
+Proposed - this is something I think we need built
 
 Active - there is at least one implementation of this
 
