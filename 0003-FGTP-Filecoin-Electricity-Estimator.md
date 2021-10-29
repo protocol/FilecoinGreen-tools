@@ -31,7 +31,7 @@ Electrical power (ie in watts) and total power consumption over a given time per
 See implementation below for model description.
 
 ## Implementations and Artifacts 
-1. [Filecoin Energy Estimator Implementation](https://github.com/redransil/filecoin-energy-estimation/blob/main/README.md)
+1. [Filecoin Energy Estimator Implementation](https://github.com/redransil/filecoin-energy-estimation)
 2. [Filecoin Green Orbit Presentation](https://www.youtube.com/watch?v=leA6cbq6ToA&list=PL_0VrY55uV18i8gXWcuVLK3J60cetDP6E&index=4)
 
 ## Relevant Background
