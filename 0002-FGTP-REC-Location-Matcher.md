@@ -45,13 +45,16 @@ True / False whether the consumption and generation match
 *  The goal here is to make sure that the generation and consumption are on the same power grid. No good across-the-board standard exists for this right now
   *  One easy solution is political boundaries: ie country (if the country is reasonably small) or state/province 
   *  The best solution would look similar to [European bidding zones](https://eepublicdownloads.entsoe.eu/clean-documents/events/2018/BZ_report/20181015_BZ_TR_FINAL.pdf) which are intended to reflect physical electric transmission constraints.
-  *  In the US, [eGRID regions](https://www.epa.gov/egrid) are a good solution. Also see [eGRID maps here](https://www.epa.gov/egrid/maps)
+  *  In the US, [NERC Regions](https://19january2017snapshot.epa.gov/energy/north-american-reliability-corporation-nerc-region-representational-map_.html) are a good level of granularity.
   *  This configuration may need to be updated over time
  
 ## Implementations and Artifacts 
 No implementations
 
 ## Relevant Background
-See above
+* See above.
+* The ultimate goal is to come up with an easy way of mapping points in the transmission system which electricity flows easily between. See for example how this gets translated into Locational Marginal Prices (LMPs) in [real-time maps](https://api.misoenergy.org/MISORTWD/lmpcontourmap.html)
+* For more on LMPs, see [this report on energy pricing](https://research.protocol.ai/publications/energy-pricing/)
+* There are many ways of carving up power grids; in addition to NERC maps above see [eGRID maps here](https://www.epa.gov/egrid/maps)
 
 Also for the US, see [grid interconnections](https://www.eia.gov/todayinenergy/detail.php?id=27152) and [system operator / balancing authority](https://www.ferc.gov/sites/default/files/2020-05/elec-ovr-rto-map.pdf) data.
