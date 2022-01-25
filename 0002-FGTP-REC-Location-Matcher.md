@@ -46,6 +46,7 @@ True / False whether the consumption and generation match
   *  One easy solution is political boundaries: ie country (if the country is reasonably small) or state/province 
   *  The best solution would look similar to [European bidding zones](https://eepublicdownloads.entsoe.eu/clean-documents/events/2018/BZ_report/20181015_BZ_TR_FINAL.pdf) which are intended to reflect physical electric transmission constraints.
   *  In the US, [NERC Regions](https://19january2017snapshot.epa.gov/energy/north-american-reliability-corporation-nerc-region-representational-map_.html) are a good level of granularity.
+  *  * See [GIS data](https://atlas.eia.gov/datasets/nerc-regions/explore) for these regions
   *  This configuration may need to be updated over time
  
 ## Implementations and Artifacts 
