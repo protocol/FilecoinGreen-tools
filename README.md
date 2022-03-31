@@ -29,6 +29,10 @@ Protocol Labs wants to support ideas in this space! We are planning events, gran
 | 0001 | Carbon 12 | Embodied emissions tracking solution | https://github.com/protocol/FilecoinGreen-tools/blob/main/0001-FGTP-Carbon12.md |
 | 0002 | REC Location Matcher | Algorithmic matching of generation and consumption locations | https://github.com/protocol/FilecoinGreen-tools/blob/main/0002-FGTP-REC-Location-Matcher.md |
 | 0003 | Filecoin Electricity Estimator | Model for estimating the electricty use of Filecoin  | https://github.com/protocol/FilecoinGreen-tools/blob/main/0003-FGTP-Filecoin-Electricity-Estimator.md |
+| 0004 | Content address EACs | Build Web3-native tools to assign CIDs to renewable energy certificates and the metadata mapping from them to SPs.
+  | https://github.com/protocol/FilecoinGreen-tools/blob/main/0004-FGTP-Content-Address-EACs.md |
+
+
 
 
 
