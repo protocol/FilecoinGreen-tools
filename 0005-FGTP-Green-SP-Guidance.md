@@ -14,8 +14,8 @@ Filecoin Storage Providers (SPs) would benefit from guidance around how to appro
 practices from carbon accounting, renewable energy procurement, and related industries in order to suggest how to approach sustainable operations.
 
 ## Authors
-mjohnson518
-redransil
+- mjohnson518
+- redransil
 
 ## Status
 Active - there is at least one implementation of this under development
