@@ -28,7 +28,7 @@ This should live, at least for now, in the [filecoin-renewables-purchases](https
 
 ## What are the inputs
 - Spreadsheet with renewable energy information
-- Certificates outputted from the registry (pdfs)
+- Certificates outputted from the registry; pdfs
 
 Example #1: [Zero Labs REC tracker](https://docs.google.com/spreadsheets/d/1aOWOEVe9-pM666ahhSIoMdzGW_R2_JMgal0HItxFs9Y/edit?usp=sharing) for EACs already
 in the system. This is a private sheet, let us know if you need access to this or a copy.
