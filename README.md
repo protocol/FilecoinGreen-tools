@@ -31,6 +31,7 @@ Protocol Labs wants to support ideas in this space! We are planning events, gran
 | 0003 | Filecoin Electricity Estimator | Model for estimating the electricty use of Filecoin  | https://github.com/protocol/FilecoinGreen-tools/blob/main/0003-FGTP-Filecoin-Electricity-Estimator.md |
 | 0004 | Content address EACs | Build Web3-native tools to assign CIDs to renewable energy certificates and the metadata mapping from them to SPs.  | https://github.com/protocol/FilecoinGreen-tools/blob/main/0004-FGTP-Content-Address-EACs.md |
 | 0005 | Green SP Guidance | Provide guidance to SPs on best practices for sustainability | https://github.com/protocol/FilecoinGreen-tools/blob/main/0005-FGTP-Green-SP-Guidance.md |
+| 0006 | CO2.Storage | Free decentralized storage utility for Environmental Assets, built on Filecoin/IPFS | https://github.com/protocol/FilecoinGreen-tools/blob/main/0005-FGTP-Green-SP-Guidance.md |
 
 
 
