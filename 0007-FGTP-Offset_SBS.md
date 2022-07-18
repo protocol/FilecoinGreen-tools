@@ -2,7 +2,7 @@
 FGTP: "0007"
 title: Offset_SBS
 status: Active
-original author: [mjohnson518](https://github.com/mjohnson518)
+original author: mjohnson518
 created: 2022-07-15
 ---
 
