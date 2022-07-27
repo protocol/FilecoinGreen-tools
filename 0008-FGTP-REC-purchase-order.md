@@ -42,15 +42,18 @@ A csv order form with:
   * API with one-day resolution should be sufficient
   * Multiply by 1.5 so that we over-buy RECs
   * If the minerID has multiple locations, multiply by the fraction of those locations in this region. Example: if a minerID lists {CN, CN, JP} and we are calculating RECs for China, multiply by 2/3.
+  * Find all previous REC purchases for this minerID, region and quarter. Subtract them.
+   * If a REC purchase does not match with the quarter boundary, subtract only the fraction which is within this quarter.
 * Sum over all minerIDs for this region and quarter. Round up to the nearest integer. This result is the number of RECs to buy for the corresesponding region and quarter.
 3) For the current quarter, calculate REC purchases for each region as the following:
 * Find the energy use (MWh) for a given minerID in the region so far this quarter
 * Determine the average power use (MW) over the quarter to date (ie. the 90 days ending at the current date). Multiply by the time remaining in the quarter (ie. if we are 2 months into the quarter, multiply by 1 additional month)
 * Add the two numbers above; ie the sum of actual power use so far plus extrapolated power use
-* Multiply by 1.5 and the fraction of minerID locations in this region, as above.
+* Multiply by 1.5 and the fraction of minerID locations in this region, then subtract previous purchases. (All as above)
 * Sum over all minerIDs in the region and round up
 4) Extrapolate for the upcoming quarter
-* Calculate power (MW) as above, and multiply by the length of the upcoming quarter (approximately 90 days)
+* Calculate power (MW) as above, and multiply by the length of the upcoming quarter (approximately 90 days).
+* Multiply by 1.5 and the fraction of minerID locations in this region, then subtract previous purchases. (All as above)
 
 ## Implementations and Artifacts 
 
