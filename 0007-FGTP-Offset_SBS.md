@@ -46,7 +46,7 @@ Once the total emissions impact is calculated, the Filecoin Green team will:
 
 1. Multiple the total emissions impact by a factor of 2X, to build in a margin of safety. 
 2. Seek input from Web3 Carbon Credits providers to procure enough high-quality offsets to cover the travel-related emissions impact of SBS.
-3. Seek input from the SBS Speakers to provide vote on which Offsets are appropriate to cover the travel-related emissions impact of SBS.
+3. Seek input from the SBS Speakers to vote on which Offsets are appropriate to cover the travel-related emissions impact of SBS.
 4. Procure Offsets and register them on Filecoin via [CO2.Storage](https://github.com/protocol/FilecoinGreen-tools/blob/main/0006-FGTP-CO2_Storage.md).
 5. Airdrop tokens to all attendees and speakers with details of offset activity. 
 6. Publish a carbon accounting record for SBS, including ratings for all offsets considered. 
