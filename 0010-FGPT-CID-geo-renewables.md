@@ -47,10 +47,11 @@ For each minerID:
 - Amount of each type of renewable energy purchased by this minerID (ie solar, wind, hydro, biomass)
 
 ## Proposed Solution
-See description and outputs.
+See description and outputs. For a given CID, look up required information and aggregate data as needed.
 
 ## Implementations and Artifacts 
 Extends [cid.place](https://cid.place/)
+For map example, see [Filecoin energy map](https://filecoin-green.dzunic.net/)
 
 ## Relevant Background
 For more information on synthetic locations, [Jim Pick's meetup presentation](https://youtu.be/PyxSRV0UlFc?t=2524)
