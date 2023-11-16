@@ -13,7 +13,7 @@ Content address EACs
 Data for EACs is currently tracked in several places, including in the 
 [EAC Summary Archive](https://github.com/redransil/filecoin-renewables-purchases/tree/main/EAC_Purchase_Summary_Archive) and the Zero Labs system.
 
-We'd like to take all of the relevant data, including certifictes, and track it with IPDL.
+We'd like to take all of the relevant data, including certificates, and track it with IPDL.
 
 ## Authors
 redransil
@@ -38,7 +38,7 @@ Example #2: [Order sheet](https://github.com/redransil/filecoin-renewables-purch
 ## What are the outputs
 IPLD data stored on [Estuary](https://estuary.tech/) which tracks pdf certificates and associated metadata.
 
-Metadat should include, at least, all of the information returned by a transaction call to the [ZL API](https://proofs-api.zerolabs.green/api/partners/filecoin/nodes/f01234/transactions)
+Metadata should include, at least, all of the information returned by a transaction call to the [ZL API](https://proofs-api.zerolabs.green/api/partners/filecoin/nodes/f01234/transactions)
 
 ## Proposed Solution
 - The pdf certificate should be stored on Estuary and have its own CID: [example](https://bafkreib5dmwkopgu5fb2a572o6x652shwsf45v74xfdvrnllscgunzqese.ipfs.dweb.link/)
